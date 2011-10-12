@@ -11,3 +11,9 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+java:
+  title: Java Programming
+  description: ddees
+  image_url: sadfasfd.jpg
+  price: 9.99
